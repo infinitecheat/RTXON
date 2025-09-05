@@ -1,11 +1,11 @@
 {
- bypassVersion": 1,
+ "bypassVersion": 1,
   "libs": "https://github.com/infinitecheat/RTXON/releases/download/XTOP/unrealhax.zip",
   "gamesList": [
     {
       "title": "PUBG GLOBAL",
       "package": "com.tencent.ig",
-      "version": "3.9.0",
+      "version": "4.0",
       "status": "Safe"
     },
     {
